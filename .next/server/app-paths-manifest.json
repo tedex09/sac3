@@ -1,0 +1,9 @@
+{
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/request/[id]/page": "app/request/[id]/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/request/page": "app/request/page.js",
+  "/api/tmdb/route": "app/api/tmdb/route.js",
+  "/api/requests/route": "app/api/requests/route.js"
+}
